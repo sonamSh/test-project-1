@@ -13,7 +13,7 @@ public class TestGitHubProject {
         System.out.println("Random Integers: "+rand_int1);
         System.out.println("Random Integers: "+rand_int2);
 
-       
+        System.out.println("adding new line for testing github intellij project");
 
     }
 }
